@@ -24,7 +24,6 @@ The Vacuum Tube Tesla Coil (VTTC) uses vacuum tubes (valves) to switch the prima
 
 Each type of Tesla coil has its strengths and applications. SGTCs are appreciated for their simplicity and dramatic effects, SSTCs for their control and versatility, DRSSTCs for their high performance and efficiency, and VTTCs for their continuous wave capabilities and vintage appeal. Advances in materials and electronics continue to refine these designs, expanding the potential applications of Tesla coils in both scientific research and entertainment.
 
-#
 #### Tesla Coil Influence
 
 The Tesla coil has had a significant influence on the development of radio technology and wireless transmission. Tesla’s experiments with wireless power transmission laid the groundwork for modern wireless communication systems. The principles of resonance and high-frequency transmission he explored are foundational in various technologies, including radio, television, and even modern wireless charging systems for devices like smartphones.
