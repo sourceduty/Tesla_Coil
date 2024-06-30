@@ -6,10 +6,12 @@
 
 A Tesla coil is an air-core resonant transformer circuit invented by Nikola Tesla around 1891. It is designed to produce high-voltage, low-current, high-frequency alternating-current electricity. The basic components of a Tesla coil include a primary coil and a secondary coil, each with its own capacitor, along with a spark gap and a power source. The coils are usually air-core, meaning they do not have an iron core, which allows for the high-frequency oscillations needed for the coil to operate effectively.
 
+#
 #### How the Tesla Coil Works
 
 The operation of a Tesla coil involves several stages. Initially, a high-voltage transformer is used to charge a capacitor. This capacitor is connected to the primary coil and discharges through a spark gap, creating an oscillating current. This oscillating current in the primary coil generates a magnetic field that induces a current in the secondary coil. Due to the resonance between the primary and secondary coils, the voltage in the secondary coil can become extremely high. The resulting high-voltage alternating current can produce spectacular electrical discharges, such as sparks and arcs, and can light up fluorescent bulbs from a distance without direct electrical connections.
 
+#
 #### Versions
 
 There are various versions of the Tesla coil that can be constructed, ranging from the classic spark gap Tesla coil to more modern designs like the solid-state Tesla coil. The classic version relies on a spark gap to produce the oscillations, whereas the solid-state version uses electronic components like transistors or thyristors to switch the current on and off, allowing for more control and efficiency. Another version is the dual-resonant solid-state Tesla coil (DRSSTC), which enhances performance by using two resonant circuits.
@@ -24,14 +26,17 @@ The Vacuum Tube Tesla Coil (VTTC) uses vacuum tubes (valves) to switch the prima
 
 Each type of Tesla coil has its strengths and applications. SGTCs are appreciated for their simplicity and dramatic effects, SSTCs for their control and versatility, DRSSTCs for their high performance and efficiency, and VTTCs for their continuous wave capabilities and vintage appeal. Advances in materials and electronics continue to refine these designs, expanding the potential applications of Tesla coils in both scientific research and entertainment.
 
+#
 #### Tesla Coil Influence
 
 The Tesla coil has had a significant influence on the development of radio technology and wireless transmission. Tesla’s experiments with wireless power transmission laid the groundwork for modern wireless communication systems. The principles of resonance and high-frequency transmission he explored are foundational in various technologies, including radio, television, and even modern wireless charging systems for devices like smartphones.
 
+#
 #### Tesla Coil Improvements
 
 Improvements to the Tesla coil can focus on enhancing efficiency, control, and safety. For instance, using solid-state components can improve the precision and reliability of the coil’s operation. Incorporating advanced materials for the coils and capacitors can also enhance performance. Additionally, modern computational tools can optimize the design parameters to achieve higher efficiency and more powerful outputs. Ongoing research into wireless power transmission and high-voltage applications continues to build on Tesla’s pioneering work, potentially leading to new innovations and improvements in how we generate and use electrical power.
 
+#
 #### Wireless Energy
 
 Tesla’s most enduring contribution through the Tesla coil, however, is his pioneering work on wireless energy transmission. He envisioned a world where electrical power could be transmitted without wires over long distances, making power distribution more efficient and widely accessible. Tesla demonstrated the feasibility of this idea through various experiments, using Tesla coils to transmit electricity wirelessly. His experiments showed that it was possible to light up bulbs and power electrical devices remotely, using the principles of resonant inductive coupling.
@@ -40,12 +45,14 @@ Tesla's most ambitious project in this area was the construction of the Wardencl
 
 Despite the setbacks, Tesla’s ideas on wireless energy have inspired numerous subsequent developments. Modern wireless power transmission technologies, such as inductive charging for electric vehicles and electronic devices, owe much to Tesla’s early experiments. Research into wireless power continues to evolve, with scientists exploring methods like microwave and laser-based power beaming to deliver energy over longer distances.
 
+#
 #### Wireless Energy Weapon
 
 Nikola Tesla’s work on the Tesla coil included exploring its potential applications in warfare and defense, as well as pioneering studies on wireless energy transmission. While some of these ideas were speculative and ahead of their time, they have had a lasting impact on scientific and technological development.
 
 In terms of warfare and defense, Tesla envisioned the Tesla coil and related technologies as part of a “death ray” or “teleforce” weapon. Tesla claimed that this device could direct a focused beam of particles at high velocities to destroy aircraft, tanks, and infantry from a great distance. He proposed that this weapon would create an impenetrable defense shield around a country, making conventional warfare obsolete. Despite his detailed descriptions and attempts to interest governments in his ideas, no practical implementation of such a weapon was ever realized during Tesla’s lifetime. The concept of directed-energy weapons, however, has persisted and evolved, leading to modern research into technologies like high-powered microwaves and lasers for defense applications.
 
+#
 #### Modern Wireless Energy
 
 Wireless energy technology today has made significant strides since Tesla's early experiments, leveraging advanced materials, electronics, and improved understanding of electromagnetic fields. Modern wireless energy transmission primarily involves two main methods: inductive coupling and resonant inductive coupling, along with emerging technologies like microwave and laser-based power transfer.
