@@ -93,6 +93,8 @@ In terms of potential applications, the Wireless Tesla Wand could revolutionize 
 ### Related Links
 
 [Tesla Turbine](https://github.com/sourceduty/Tesla_Turbine)
+<br>
+[History Simulator](https://github.com/sourceduty/History_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
